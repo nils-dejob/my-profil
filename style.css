@@ -1,0 +1,56 @@
+body {
+  color: #898121;  
+	background-color: #F7F1E5;
+	font-size: 25px;
+	font-family: Roboto;
+}
+img {
+	width: 250px;
+}
+h1, h2, h3 {
+	font-family: Oswald;
+	margin: 20px auto;
+}
+h1 {
+	color: #E7B10A;
+	font-size: 90px;
+	margin: 0.1px 150px;
+}
+h2,h3 {
+  color: #4C4B16;
+	font-size: 30px;
+}
+p {
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	color: #4C4B16;
+}
+a:hover {
+	color: #E7B10A;
+}
+
+/*Custom design*/
+
+.box {
+  width: 700px; 
+  margin: 40px 30px 30px; 
+}
+
+.img-circle {
+	border-radius: 8%;
+	margin: 10px 200px;
+}
+
+.card {
+  width: 700px; 
+  margin: 40px 50px 50px; 
+}
+.list-inline {
+  list-style: none; 
+  padding-left: 0px; 
+}
+.list-inline > li {
+  display: inline;
+  }
