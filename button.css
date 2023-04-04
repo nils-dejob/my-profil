@@ -1,0 +1,14 @@
+
+.btn-brown {
+	background-color: brown;
+	color: white;
+	padding: 15px 20px;
+	text-align: center;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: Indie Flower, serif;
+}
+.btn-brown:hover {
+	background-color: rosybrown;
+	color: white;
+}
